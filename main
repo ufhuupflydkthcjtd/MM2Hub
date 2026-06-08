@@ -1,0 +1,3 @@
+local Webhook = "YOURWEBHOOK" -- Replace with your webhook URL
+local Username = "YOURUSERNAME" -- Replace with your username
+local MinimumRarity = "Godly" -- You Can Choose Between Godly, Ancient, Unique, Vintage
